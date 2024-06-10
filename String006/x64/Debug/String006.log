@@ -1,0 +1,7 @@
+﻿  here.c
+C:\Users\35316\Desktop\.vs\String006\String006\here.c(6,1): warning C4005: “max”: 宏重定义
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stdlib.h(1282,1):
+  参见“max”的前一个定义
+  
+C:\Users\35316\Desktop\.vs\String006\String006\here.c(27,2): warning C4013: “Sleep”未定义；假设外部返回 int
+  String006.vcxproj -> C:\Users\35316\Desktop\.vs\String006\x64\Debug\String006.exe
